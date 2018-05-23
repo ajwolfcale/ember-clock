@@ -1,7 +1,6 @@
-# ember-quickstart
+# ember-clock
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This app was an into to Ember JS. It is a clock displaying the current local time, updating every second.
 
 ## Prerequisites
 
